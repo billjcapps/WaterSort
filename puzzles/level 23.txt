@@ -1,0 +1,9 @@
+orange, pink, red, light green
+light blue, dark blue, red, pink
+light blue, orange, gray, orange
+light blue, dark blue, light green, pink
+light blue, red, gray, pink
+red, light green, light green, gray
+gray, orange, dark blue, dark blue
+blank, blank, blank, blank
+blank, blank, blank, blank

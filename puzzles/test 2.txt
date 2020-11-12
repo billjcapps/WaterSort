@@ -1,0 +1,3 @@
+red, red, dark blue, dark blue
+dark blue, dark blue, red, red
+blank, blank, blank, blank
